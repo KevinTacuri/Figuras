@@ -1,6 +1,6 @@
 # Aplicación móvil de figuras geométricas
 
-###Descripción
+### Descripción
 
 Aplicación móvil desarrollada en Java para Android que permite visualizar de manera interactiva una secuencia de figuras geométricas con un número creciente de lados.
 
